@@ -2,3 +2,7 @@ aiogram
 transformers
 torch
 accelerate
+python-telegram-bot
+requests
+aiohttp
+
